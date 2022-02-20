@@ -115,6 +115,7 @@
     (custom-theme-set-faces
      'danneskjold
      `(default ((,c (:foreground ,white :background ,black))))
+     `(cursor ((,c (:background "orangered"))))
      `(fringe ((,c (:foreground ,invisible))))
      `(region ((,c (:background "#373d4f"))))
      `(button ((,c (:foreground ,frost :underline t :weight normal))))
