@@ -127,7 +127,7 @@
 
      `(show-paren-match ((,c (:background ,blue :foreground ,white))))
 
-     `(highlight ((,c (:background ,invisible :foreground ,black))))
+     `(highlight ((,c (:background ,invisible))))
 
      `(font-lock-string-face ((,c (:foreground ,green))))
      `(font-lock-doc-face ((,c (:foreground ,green))))
