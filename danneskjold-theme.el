@@ -313,7 +313,7 @@
      `(org-document-info            ((,c (:foreground ,white))))
      `(org-document-info-keyword    ((,c (:foreground ,frost :bold t))))
      `(org-meta-line                ((,c (:foreground ,frost))))
-     `(org-block                    ((,c (:background "#0e1824"))))
+     `(org-block                    ((,c (:background ,black))))
      `(org-block-begin-line         ((,c (:foreground "selectedControlColor" :slant italic))))
      `(org-block-end-line           ((,c (:inherit org-block-begin-line))))
      `(org-archived                 ((,c (:foreground ,invisible))))
