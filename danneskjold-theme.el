@@ -179,7 +179,7 @@
      `(hl-line ((,c (:background "keyboardFocusIndicatorColor"))))
 
      ;; search
-     `(isearch ((,c (:foreground ,black :background ,invisible))))
+     `(isearch ((,c (:foreground ,black :background ,magenta))))
      `(lazy-highlight ((,c (:foreground ,black :background ,yellow))))
 
      ;; diff
