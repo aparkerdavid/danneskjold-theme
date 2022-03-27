@@ -125,7 +125,7 @@
 
      `(secondary-selection ((,c ())))
 
-     `(show-paren-match ((,c (:background ,blue :foreground ,white))))
+     `(show-paren-match ((,c (:foreground ,black :weight bold :background ,yellow))))
 
      `(highlight ((,c (:background ,invisible))))
 
